@@ -1,4 +1,4 @@
-This project is a simple chatbot developed using Python, designed to assist with customer support and enhance user engagement.
+This project is a simple chatbot developed using Python, designed to assist with customer support and enhance user engagement.Developed as one of the task of my internship.
 Built in a Jupyter Notebook environment.
 Project Overview
 The chatbot is capable of:
