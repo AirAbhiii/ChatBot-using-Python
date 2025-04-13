@@ -27,7 +27,7 @@ Observe the responses based on the input
 You can customize the intent, responses, and logic to match your use case.
 
 Requirements
-Python (3.x recommended)
+Python (3.x)
 Jupyter Notebook
-Basic libraries like nltk, random, etc. (depending on your implementation)
+Basic libraries like nltk, random, etc.
 
